@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Minal2002/Minal2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is Minal Muneshwar, a dedicated and  Business Analyst with a strong background in data analysis, strategy, and digital marketing. I hold extensive experience in various domains, including SQL, email and social media marketing, and client relationship management. With a knack for leveraging data to drive business decisions, I have successfully contributed to multiple projects, including data visualization, annual reports, and market analysis.
 
-Here are some ideas to get you started:
+I am currently working at Digital Dose, a leading digital marketing agency, where I specialize in helping businesses grow their online presence and achieve their marketing goals. I am also actively seeking new opportunities to apply my skills in dynamic environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some ideas to get you started: 
+- 🌱 I’m currently learning SaS, Python
+- 👯 I’m looking to collaborate on MYSQL, Power BI
+- 📫 How to reach me: [Minal Muneshwar](https://www.linkedin.com/in/minal-muneshwar-66b39721a/)
+- 👨‍💻 I’m looking for the role of Business Analyst
+
+💻 Skills:
+Excel
+Power BI
+SQL
+Data Visualization
+Python
+Power BI
